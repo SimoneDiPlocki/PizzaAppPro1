@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PRO1_Pizza</name>
+    </assembly>
+    <members>
+        <member name="M:PRO1_Pizza.Controllers.ValuesController.Get">
+            <summary>
+            sadsadsadasdsadsa
+            </summary>
+            <returns>JD</returns>
+        </member>
+    </members>
+</doc>
